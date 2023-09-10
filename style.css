@@ -165,7 +165,7 @@ hr {
 /* BANNER */
 
 #banner {
-  background-image: url("../assests/banner/3.jpg");
+  background-image: url("assests/banner/3.jpg");
   width: 100%;
   height: 60vh;
   /* object-fit: cover; */
